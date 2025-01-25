@@ -1,0 +1,6 @@
+git clone // Para clonar un repositorio remoto en local
+git status // Muestra el estado actual del repositorio local
+git add // Añade archivos para que despues sean commiteados
+git commit // Confirma los cambios elegidos
+git push // Sube los cambios confirmados
+git checkout // Cambia de rama
