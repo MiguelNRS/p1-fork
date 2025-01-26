@@ -63,3 +63,7 @@ El comando checkout se usa para cambiar entre una y otra rama del git usadas par
 ## Conclusión
 En esta práctica hemos aprendido a manejarnos con los comandos basicos del git para el control de las versiones en el desarrollo de software a traves de ejecutar los comandos basicos en un code space del repositorio fork de la práctica 1. 
 Primero hemos hecho un fork y un clone para tener una copia del repositorio en nuestro repositorio local. Despues hemos visto el estado de nuestro repositorio, añadido todos los archivos para un commit, hecho el commit y lo hemos subido a el repositorio remoto. Por ultimo hemos creado una nueva rama y vuelto a hacer checkout a nuestra rama main.
+
+# Entorno java
+Esta es una captura de intellij donde se puede ver la version de jdk intalada
+![jdk](images/jdk.png)
